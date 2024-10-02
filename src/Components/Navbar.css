@@ -1,0 +1,89 @@
+ *{
+    color: white;
+  }
+#logo1{
+    height: 60px;
+    width: 70px;
+    object-fit: cover;
+    padding: 2px;
+}
+.navbar{
+    background: rgb(30,30,30);
+    position: sticky;
+     height: 5rem;
+    max-width:100rem;
+    width: 80vw;
+    margin:0 auto;
+    padding:2rem 2rem;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    top:0;
+    z-index: 3;
+}
+.dekstopmenuelistitem{
+    margin: 1rem;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+.dekstopmenuelistitem:hover{
+    color: yellow;
+    padding: 0;
+    border-bottom: 3px solid yellow;
+}
+.desktopmenuebtn{
+    background-color: white;
+    color: black;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 1rem;
+    border-radius: 3rem;
+}
+.active{
+    color: yellow;
+    border-bottom: 2px solid yellow;
+}
+.navmenu{
+    flex-wrap: wrap;
+    word-wrap:normal;
+    height: fit-content;
+    width: 2rem;
+    position:relative;
+    top:3.5rem;
+    z-index: 2;
+    display: flex;
+  flex-direction:column;
+    justify-content: center;
+   padding: 0.5rem;
+    min-width: 6rem;
+    border-radius: 0.5rem;
+    background: rgb(40,40,40);
+    
+}
+.mobmenu{
+ 
+    height: 2rem;
+    width: 2rem;
+    display: none;
+    object-fit: cover;
+    height: 1.9rem;
+}
+.listitem{
+    color: white;
+    padding: 0.2rem;
+    margin: 0.1rem;
+  /*  background-color: rgb(40,40,40);*/
+}
+@media screen and (max-width:720px) {
+    .mobmenu{
+        display: flex;
+    }
+    .desktopmenu{
+        display: none;
+    }
+    .desktopmenuebtn{
+        display: none;
+    }
+}
