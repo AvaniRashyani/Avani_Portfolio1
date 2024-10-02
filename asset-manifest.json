@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/Avani_Portfolio1/static/css/main.f225f7f7.css",
-    "main.js": "/Avani_Portfolio1/static/js/main.f95216fa.js",
+    "main.js": "/Avani_Portfolio1/static/js/main.f0c89407.js",
     "static/js/453.149dfd90.chunk.js": "/Avani_Portfolio1/static/js/453.149dfd90.chunk.js",
     "static/media/we2.png": "/Avani_Portfolio1/static/media/we2.96351dc1edd17b2663a0.png",
     "static/media/js1.png": "/Avani_Portfolio1/static/media/js1.089cbfb9c421157e892b.png",
+    "static/media/php1.png": "/Avani_Portfolio1/static/media/php1.9c6e4d439705599ffee6.png",
     "static/media/m3.png": "/Avani_Portfolio1/static/media/m3.fe22ac2c781b450d8b74.png",
     "static/media/css1.png": "/Avani_Portfolio1/static/media/css1.e2650a1191c39885b751.png",
     "static/media/html1.png": "/Avani_Portfolio1/static/media/html1.513e287714fe22a8749c.png",
@@ -19,11 +20,11 @@
     "static/media/Mongo.png": "/Avani_Portfolio1/static/media/Mongo.7d8ed821bb5bbf048687.png",
     "index.html": "/Avani_Portfolio1/index.html",
     "main.f225f7f7.css.map": "/Avani_Portfolio1/static/css/main.f225f7f7.css.map",
-    "main.f95216fa.js.map": "/Avani_Portfolio1/static/js/main.f95216fa.js.map",
+    "main.f0c89407.js.map": "/Avani_Portfolio1/static/js/main.f0c89407.js.map",
     "453.149dfd90.chunk.js.map": "/Avani_Portfolio1/static/js/453.149dfd90.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f225f7f7.css",
-    "static/js/main.f95216fa.js"
+    "static/js/main.f0c89407.js"
   ]
 }
